@@ -1,0 +1,60 @@
+{
+  "heroes": [
+    {
+      "id": "51d563ff-084b-4036-8376-26b65043e418",
+      "name": "Hero 1",
+      "description": "I own the element fire",
+      "element": "fire"
+    },
+    {
+      "id": "e962bd35-97b4-48eb-88f9-72745888f5a1",
+      "name": "Hero 2",
+      "description": "I own the element water",
+      "element": "water"
+    },
+    {
+      "id": "4a2fe716-c78e-4dc2-b6f7-a6d56c83bc2e",
+      "name": "Hero 3",
+      "description": "I own the element wind",
+      "element": "wind"
+    },
+    {
+      "id": "b209d34e-71b0-47a6-aad2-ac8e5bf6b81b",
+      "name": "Hero 4",
+      "description": "I own the element earth",
+      "element": "earth"
+    }
+  ],
+  "filters": [
+    {
+      "id": "all",
+      "name": "all",
+      "label": "All",
+      "className": "btn-outline-dark"
+    },
+    {
+      "id": "fire",
+      "name": "fire",
+      "label": "Fire",
+      "className": "btn-danger"
+    },
+    {
+      "id": "water",
+      "name": "water",
+      "label": "Water",
+      "className": "btn-primary"
+    },
+    {
+      "id": "wind",
+      "name": "wind",
+      "label": "Wind",
+      "className": "btn-success"
+    },
+    {
+      "id": "earth",
+      "name": "earth",
+      "label": "Earth",
+      "className": "btn-secondary"
+    }
+  ]
+}
